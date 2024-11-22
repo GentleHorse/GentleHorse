@@ -29,4 +29,4 @@ I'm a **Creative Developer / Designer** who is passionate about creating **immer
 
 ## Get in Touch 📬
 
-You can get in touch with me on [X](https://x.com/toshihito_endo), [Instagram](https://www.instagram.com/toshihitoendo/), [LinkedIn](https://www.linkedin.com/in/toshihito-endo-a68a82172/) or [send me an email](toshihito.endo@gmail.com).
+You can get in touch with me on [X](https://x.com/toshihito_endo), [Instagram](https://www.instagram.com/toshihitoendo/), [LinkedIn](https://www.linkedin.com/in/toshihito-endo-a68a82172/) or [send me an email](mailto:toshihito.endo@gmail.com).
