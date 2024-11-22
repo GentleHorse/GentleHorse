@@ -4,7 +4,7 @@
 ![Banner Image](your_banner_image_url_here)
 -->
  
-I'm a **Front-End Developer / Designer** who is passionate about creating **immersive 3D digital experiences** with **React, Three.js, Blender**. 
+I'm a **Creative Developer / Designer** who is passionate about creating **immersive 3D digital experiences** with **React, Three.js, Blender**. 
 
 ## My Skills 💻 
 
