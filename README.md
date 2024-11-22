@@ -1,9 +1,9 @@
 # Hi there, I'm Toshi! 👋
 
+<!--
 ![Banner Image](your_banner_image_url_here)
-
-## About Me 🚀
-
+-->
+ 
 I'm a **Front-End Developer / Designer** who is passionate about creating **immersive 3D digital experiences** with **React, Three.js, Blender**. 
 
 ## My Skills 💻 
@@ -11,7 +11,7 @@ I'm a **Front-End Developer / Designer** who is passionate about creating **imme
 [![My skills](https://skillicons.dev/icons?i=html,css,js,threejs,tailwind,react,cpp,blender,unreal,arduino)](https://skillicons.dev)
 
 <!--
-## Featured Projects ⚡
+## Featured Projects 🚀
 
 ### [Portfolio website](project_1_link)
 
