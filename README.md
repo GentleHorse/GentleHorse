@@ -8,7 +8,7 @@ I'm a **Creative Developer / Designer** who is passionate about creating **immer
 
 ## My Skills 💻 
 
-[![My skills](https://skillicons.dev/icons?i=html,css,js,threejs,tailwind,react,cpp,blender,unreal,arduino)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=html,css,js,react,threejs,tailwind,cpp,blender,unreal,arduino)](https://skillicons.dev)
 
 <!--
 ## Featured Projects 🚀
