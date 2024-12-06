@@ -1,8 +1,7 @@
-# Hi there, I'm Toshi! 👋
+# Hi, I'm Toshi! 👋
 
-<!--
-![Banner Image](your_banner_image_url_here)
--->
+
+![Banner Image](/assets/thumbnail-portfolio-website.jpg)
  
 I'm a **Developer / Designer** who is passionate about creating **immersive, playful 3D digital experiences** by combining my designer's background and developer's skills such as **React, Three.js, and Blender**. 
 
