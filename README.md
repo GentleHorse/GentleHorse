@@ -10,6 +10,9 @@ I'm a **Developer / Designer** who is passionate about creating **immersive, pla
 
 [![My skills](https://skillicons.dev/icons?i=html,css,js,react,threejs,tailwind,cpp,blender,unreal,figma,arduino)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentlehorse&layout=compact)
+
+
 <!--
 ## Featured Projects 🚀
 
