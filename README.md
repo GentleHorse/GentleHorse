@@ -8,7 +8,7 @@
 🎨 **Bringing Art, Space & Code Together** – I transform complex ideas into **seamless, real-time 3D experiences**, leveraging my background in **spatial design, 3D modeling, and interactive environments**.
 
 🏆 **Recognition:** 
-- **FWA Of The Day (March 2025)** – *Awarded for my 3D interactive portfolio website*
+- **[FWA Of The Day (March 2025)](https://thefwa.com/cases/a-3d-game-like-portfolio)** – *Awarded for my 3D interactive portfolio website*
 - **CSS Design Awards Nominee** – *Public Vote Award nomination for innovative web experience*
 
 🌍 **Portfolio:** [Selected works](https://toshihito-endo.com/works)
