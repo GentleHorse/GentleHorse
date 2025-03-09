@@ -9,7 +9,7 @@
 
 🏆 **Recognition:** 
 - **[FWA Of The Day (March 2025)](https://thefwa.com/cases/a-3d-game-like-portfolio)** – *Awarded for my 3D interactive portfolio website*
-- **CSSDA Website of the Day (March 2025)** – *Public Vote Award nomination for innovative web experience*
+- **CSSDA Website of the Day (March 2025)** – *Awarded for my 3D interactive portfolio website*
 
 🌍 **Portfolio:** [Selected works](https://toshihito-endo.com/works)
 
