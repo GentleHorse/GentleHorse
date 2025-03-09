@@ -21,13 +21,14 @@
 
 [![My skills](https://skillicons.dev/icons?i=html,css,js,react,threejs,tailwind,cpp,blender,unreal,figma,arduino)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentlehorse&layout=compact)
-
 🔹 **3D Web Development** – **Three.js, React Three Fiber, WebGL, GLSL**  
 🔹 **Creative Coding & Shaders** – **GLSL, Post Processing, Shader Art**  
 🔹 **3D Spatial Visualization & Modelling** – **Blender, Unreal Engine, Houdini**  
 🔹 **Performance Optimization** – **Texture Baking, Lazy Loading**  
 🔹 **Interactive Experiences & UI/UX** – **Physics-based interactions, spatial web design**  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentlehorse&layout=compact&card_width=400) <br />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GentleHorse&card_width=400)
 
 ---
 
