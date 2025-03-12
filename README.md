@@ -27,8 +27,7 @@
 🔹 **Performance Optimization** – **Texture Baking, Lazy Loading**  
 🔹 **Interactive Experiences & UI/UX** – **Physics-based interactions, spatial web design**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentlehorse&layout=compact&card_width=400) <br />
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GentleHorse&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentlehorse&layout=compact&card_width=400) 
 
 ---
 
