@@ -2,7 +2,7 @@
 
 # Hi, I'm Toshi! 👋
 
-🚀 **Design Engineer & Creative Developer** passionate about crafting **immersive, playful 3D digital experiences** by merging my **spatial design expertise** with **technical skills**. I specialize in **React, Three.js, and Blender**, creating interactive and visually compelling web applications that enhance user engagement through **3D spatial visualization and interactivity**.
+🚀 **Web Designer & Creative Developer** passionate about crafting **immersive, playful 3D digital experiences** by merging my **spatial design expertise** with **technical skills**. I specialize in **React, Three.js, and Blender**, creating interactive and visually compelling web applications that enhance user engagement through **3D spatial visualization and interactivity**.
 
 🎨 **Bringing Art, Space & Code Together** – I transform complex ideas into **seamless, real-time 3D experiences**, leveraging my background in **spatial design, 3D modeling, and interactive environments**.
 
@@ -12,7 +12,7 @@
 
 🌍 **Portfolio:** [Selected works](https://toshihito-endo.com/works)
 
-💼 **Currently open to:** Junior **Design Engineer / Creative Developer** roles
+💼 **Currently open to:** Junior **Web Designer, UX/UI Designer, Creative Developer** roles
 
 ---
 
