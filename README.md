@@ -2,9 +2,9 @@
 
 # Hi, I'm Toshi! 👋
 
-🚀 **Web Designer & Creative Developer** passionate about crafting **immersive, playful 3D digital experiences** by merging my **spatial design expertise** with **technical skills**. I specialize in **React, Three.js, and Blender**, creating interactive and visually compelling web applications that enhance user engagement through **3D spatial visualization and interactivity**.
+I'm **3D Artist**, **Web Designer**, **Creative Developer** passionate about rich interactive digital experiences with 2D & 3D animations.
 
-🎨 **Bringing Art, Space & Code Together** – I transform complex ideas into **seamless, real-time 3D experiences**, leveraging my background in **spatial design, 3D modeling, and interactive environments**.
+Mediums don't matter as long as the vision is sharp, strong and fun enough.
 
 🏆 **Recognition:**  
 - **[FWA Of The Day (March 2025)](https://thefwa.com/cases/a-3d-game-like-portfolio)** – *Awarded for my 3D interactive portfolio website*  
