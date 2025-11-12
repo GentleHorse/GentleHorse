@@ -36,7 +36,7 @@ Mediums don't matter as long as the vision is sharp, strong and fun enough.
 🏆 **[FWA Of The Day (March 2025)](https://thefwa.com/cases/a-3d-game-like-portfolio) | [CSSDA Website of the Day](https://www.cssdesignawards.com/sites/toshihito-endo-portfolio/46269/)**  
 A **first-person game-like portfolio** where visitors explore a **3D gallery of projects**, built with **Three.js, WebGL, and GLSL shaders**. This project showcases **spatial storytelling, physics-based interactions, and optimized 3D rendering techniques**.
 
-🔗 **[Live Site](https://toshihito-endo.com)** | 📖 **[Case Study](https://toshihito-endo.com/portfolio-website)** | 💾 **[GitHub Repo](https://github.com/GentleHorse/Portfolio)**
+🔗 **[Live Site](https://www.game-like-portfolio.com/)** | 📖 **[Case Study](https://toshihito-endo.com/portfolio-website)** | 💾 **[GitHub Repo](https://github.com/GentleHorse/Portfolio)**
 
 ---
 
