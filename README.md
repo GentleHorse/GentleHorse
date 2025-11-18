@@ -2,7 +2,7 @@
 
 # Hi, I'm Toshi! 👋
 
-I'm **3D Artist**, **Web Designer**, **Creative Developer** passionate about rich interactive digital experiences with 2D & 3D animations.
+I'm a digital designer (Web Design + Dev + 3D) crafting narrative web experiences that feel tangible — blending design, motion, and material sensitivity..
 
 Mediums don't matter as long as the vision is sharp, strong and fun enough.
 
@@ -12,7 +12,7 @@ Mediums don't matter as long as the vision is sharp, strong and fun enough.
 
 🌍 **Portfolio:** [Selected works](https://toshihito-endo.com/work)
 
-💼 **Currently open to:** Junior **Web Designer, UX/UI Designer, Creative Developer** roles
+💼 **Currently open to:** Junior **Digital Designer, Web Designer, UX/UI Designer** roles
 
 ---
 
