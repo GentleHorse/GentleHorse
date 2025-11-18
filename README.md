@@ -10,7 +10,7 @@ Mediums don't matter as long as the vision is sharp, strong and fun enough.
 - **[FWA Of The Day (March 2025)](https://thefwa.com/cases/a-3d-game-like-portfolio)** – *Awarded for my 3D interactive portfolio website*  
 - **[CSSDA Website of the Day (March 2025)](https://www.cssdesignawards.com/sites/toshihito-endo-portfolio/47143/)** – *Awarded for my 3D interactive portfolio website*
 
-🌍 **Portfolio:** [Selected works](https://toshihito-endo.com/works)
+🌍 **Portfolio:** [Selected works](https://toshihito-endo.com/work)
 
 💼 **Currently open to:** Junior **Web Designer, UX/UI Designer, Creative Developer** roles
 
