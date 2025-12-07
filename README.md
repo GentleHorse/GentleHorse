@@ -7,8 +7,9 @@ I'm a digital designer (Web Design + Dev + 3D) crafting narrative web experience
 Mediums don't matter as long as the vision is sharp, strong and fun enough.
 
 🏆 **Recognition:**  
-- **[FWA Of The Day (March 2025)](https://thefwa.com/cases/a-3d-game-like-portfolio)** – *Awarded for my 3D interactive portfolio website*  
-- **[CSSDA Website of the Day (March 2025)](https://www.cssdesignawards.com/sites/toshihito-endo-portfolio/47143/)** – *Awarded for my 3D interactive portfolio website*
+- **[FWA Of The Day (Dec 2025)](https://thefwa.com/cases/kasane-urushi-keyboard)** – *Awarded for KASANÉ — Urushi Keyboard*  
+- **[FWA Of The Day (March 2025)](https://thefwa.com/cases/a-3d-game-like-portfolio)** – *Awarded for 3D Game-like Portfolio*  
+- **[CSSDA Website of the Day (March 2025)](https://www.cssdesignawards.com/sites/toshihito-endo-portfolio/47143/)** – *Awarded for 3D Game-like Portfolio*
 
 🌍 **Portfolio:** [Selected works](https://toshihito-endo.com/work)
 
@@ -30,25 +31,25 @@ Mediums don't matter as long as the vision is sharp, strong and fun enough.
 
 ## 🚀 Featured Projects 
 
-### [🎮 3D Game-like Portfolio Website](https://toshihito-endo.com)
+### [🎮 3D Game-like Portfolio](https://toshihito-endo.com/work/gamelikeportfolio)
 🏆 **[FWA Of The Day (March 2025)](https://thefwa.com/cases/a-3d-game-like-portfolio) | [CSSDA Website of the Day](https://www.cssdesignawards.com/sites/toshihito-endo-portfolio/46269/)**  
 A **first-person game-like portfolio** where visitors explore a **3D gallery of projects**, built with **Three.js, WebGL, and GLSL shaders**. This project showcases **spatial storytelling, physics-based interactions, and optimized 3D rendering techniques**.
 
-🔗 **[Live Site](https://www.game-like-portfolio.com/)** | 📖 **[Case Study](https://toshihito-endo.com/portfolio-website)** | 💾 **[GitHub Repo](https://github.com/GentleHorse/Portfolio)**
+🔗 **[Live Site](https://www.game-like-portfolio.com/)** | 📖 **[Case Study](https://toshihito-endo.com/work/gamelikeportfolio)** | 💾 **[GitHub Repo](https://github.com/GentleHorse/Portfolio)**
 
 ---
 
-### [🍵 Weather Cereal – A Zen Weather Experience](https://weather-cereal.vercel.app/)
+### [🍵 Weather Cereal – A Zen Weather Experience](https://toshihito-endo.com/work/weathercereal)
 A **mobile-first, ambient weather app** inspired by Japanese Zen aesthetics. It visualizes real-time weather data using **3D particle animations** and **responsive ambient soundscapes**. Designed to create a **calming morning ritual** while delivering useful hourly weather insights.
 
-🔗 **[Live Site](https://weather-cereal.vercel.app/)** | 📖 **[Case Study](https://toshihito-endo.com/weather-cereal)** | 💾 **[GitHub Repo](https://github.com/GentleHorse/WeatherCereal)**
+🔗 **[Live Site](https://weather-cereal.vercel.app/)** | 📖 **[Case Study](https://toshihito-endo.com/work/weathercereal)** | 💾 **[GitHub Repo](https://github.com/GentleHorse/WeatherCereal)**
 
 ---
 
-### [📐 Object Rotterdam 2024 Floor Plan Tool](https://object-rotterdam-2024-floor-plan.vercel.app/)
+### [📐 Object Rotterdam 2024 Floor Plan Tool & Digital Archive](https://toshihito-endo.com/work/objectrotterdam2024)
 A **3D interactive floor planning tool** developed for **designers participating in the OBJECT Rotterdam 2024 exhibition**. Built with **Three.js and React**, this tool enables designers to **visualize and structure exhibition spaces in real-time**, enhancing their spatial planning process.
 
-🔗 **[Live Site](https://object-rotterdam-2024-floor-plan.vercel.app/)** | 📖 **[Case Study](https://toshihito-endo.com/object-rotterdam-2024)** | 💾 **[GitHub Repo](https://github.com/GentleHorse/ObjectRotterdam2024FloorPlan)**  
+🔗 **[Live Site](https://object-rotterdam-2024.vercel.app/)** | 📖 **[Case Study](https://toshihito-endo.com/work/objectrotterdam2024)** | 💾 **[GitHub Repo (Floor Plan Tool)](https://github.com/GentleHorse/ObjectRotterdam2024FloorPlan)** | 💾 **[GitHub Repo (Digital Archive)](https://github.com/GentleHorse/OBJECTRotterdam2024DitigalArchive)**  
 
 ---
 
