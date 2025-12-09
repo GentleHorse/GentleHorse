@@ -1,4 +1,4 @@
-![Banner Image](/assets/portfolio-website-banner.jpg)
+![Banner Image](/assets/portfolio-website-banner-v2.png)
 
 # Hi, I'm Toshi! 👋
 
