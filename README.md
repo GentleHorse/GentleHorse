@@ -1,4 +1,4 @@
-![Banner Image](/assets/portfolio-website-banner-v2.png)
+![Banner Image](/assets/kasane-screens.webp)
 
 # Hi, I'm Toshihito! 👋
 
