@@ -19,9 +19,9 @@ I'm a visual designer, 3d designer, developer who creates little "wow" moments t
 
 ## 🛠 My Skills & Tech Stack 💻 
 
-[![My skills](https://skillicons.dev/icons?i=figma,webflow,blender,html,css,js,threejs,react,nextjs,sass,tailwind,cpp,arduino)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=figma,webflow,blender,html,css,js,threejs,react,nextjs,nodejs,sass,tailwind,cpp,arduino)](https://skillicons.dev)
 
-🔹 **Web Design** – **Scalable Design System** <br />
+🔹 **Web Design** – **Visual Design, Scalable Design System** <br />
 🔹 **Modern Web Development** – **Webflow + Lumos framework + CMS** <br />
 🔹 **3D Web Development** – **Three.js, React Three Fiber, WebGL, GLSL**  <br /> 
 🔹 **3D Spatial Visualization & Modelling** – **Blender**  <br />
